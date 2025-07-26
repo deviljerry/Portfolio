@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C3FF&center=true&width=800&lines=🚀+MERN+Stack+Architect+%7C+.NET+9+Full-Stack+Expert;🔥+Building+Scalable+Enterprise+Solutions;💻+Software+Engineer+%7C+Tech+Innovator;🌍+Remote+Developer+%7C+AI+%26+LLM+Learner;Passionate+About+Crafting+Future-Ready+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C3FF&center=true&width=800&lines=🚀+MERN+Stack+Architect+%7C+.NET+9+Full-Stack+Expert;🔥+Building+Scalable+Enterprise+Solutions;💻+Computer+Scientist+%7C+Tech+Innovator;🌍+Remote+Developer+%7C+AI+%26+LLM+Learner;Passionate+About+Crafting+Future-Ready+Applications" />
 </p>
 
 ---
